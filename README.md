@@ -13,7 +13,7 @@
 
 <br />
 
-## 🤔 O que estou aprendendo
+## 🤔 O que eu estou aprendendo
 
 - JavaScript
 - TypeScript
