@@ -1,0 +1,28 @@
+// function saudacoes(nome) {
+//   // console.log(`Bom dia ${nome}!`);
+//   return `Bom dia ${nome}!`;
+// }
+
+// const variavel = saudacoes('Lucas');
+// console.log(variavel);
+
+// saudacoes('Lucas');
+// saudacoes('Maria');
+// saudacoes('Luiz');
+
+// function soma(x = 1, y = 1){
+//   const resultado = x + y;
+//   return resultado;
+// }
+
+// const resultado = soma(4, 2);
+// console.log(resultado);
+
+// const raiz = function (n) { // (parameter) n: any = Qualquer tipo de dado
+//   return n ** 0.5;
+// };
+const raiz = n => n ** 0.5;
+
+console.log(raiz(9));
+console.log(raiz(16));
+console.log(raiz(25));
