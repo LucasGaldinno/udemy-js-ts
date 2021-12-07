@@ -3,7 +3,7 @@
 
 <br />
 
-#### Nesse repositório você encotrará todas as minhas atividades realizada no curso de JavaScript e TypeScript da Udemy
+### Nesse repositório você encotrará todas as minhas atividades realizada no curso de JavaScript e TypeScript da Udemy
 
 <br />
 
